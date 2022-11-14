@@ -1,4 +1,6 @@
 .titulo{
+    font-size: 40px;
+    background-color: #ffd6ef;
 }
 
 
@@ -6,17 +8,28 @@ p{
 
 }
 .pa-1{
+   padding: 10px 0px;
+   background-color: #C7F2A4;
+   border-style: solid;
+   border-radius: 3px;
+   border-color: #3B3486;
 
 }
 .pa-2{
+    padding: 10px 0px;
+    background-color: #e5ca32;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: #c52e6f;
 
 }
 
 
 ol{
-
+    background-color: #3B3486;
 }
 
 li{
+    background-color: red;
 
 }
